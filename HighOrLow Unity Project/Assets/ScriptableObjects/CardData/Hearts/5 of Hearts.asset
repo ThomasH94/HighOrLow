@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6f77d6f1ebaad36498565be5c809d428, type: 3}
+  m_Name: 5 of Hearts
+  m_EditorClassIdentifier: 
+  CardName: 5 of Hearts
+  CardValue: 5
+  cardSuit: 3
+  CardWeight: 2
+  cardFront: {fileID: 21300000, guid: 4b3f70e4460c969439f01a6dc4905acc, type: 3}
